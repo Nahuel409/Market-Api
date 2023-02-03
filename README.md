@@ -22,12 +22,11 @@
 
 
 
-<h2>demostracion de las peticiones en entorno local</h2>
+<h1>Demostracion de las peticiones en entorno local</h1>
 
 
-<p>Imagenes</p>
 
-GET: obtener todos los productos  (Sin Autenticación )
+<h2>GET: obtener todos los productos  (Sin Autenticación )</h2>
 
 ![](https://res.cloudinary.com/dkm0hdlgz/image/upload/v1669878566/Api-market/obtener_todas_las_compras_sin_token_efapox.png)
 
@@ -35,21 +34,21 @@ GET: obtener todos los productos  (Sin Autenticación )
 
 #
 
-GET: obtener todas las compras  (Ya Con Autenticación )
+<h2>GET: obtener todas las compras  (Ya Con Autenticación ).</h2>
 
 ![](https://res.cloudinary.com/dkm0hdlgz/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1669878567/Api-market/Obtener_todas_las_compras_l724lc.png)
 
 > Utilizando el Token accede a las peticiones. Status 200
 #
 
-GET: obtener todas las compras de un usuario  (Con Autenticación )
+<h2>GET: obtener todas las compras de un usuario  (Con Autenticación ).</h2>
 
 ![](https://res.cloudinary.com/dkm0hdlgz/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1669878566/Api-market/Obtener_compras_de_un_cliente_xyrvwk.png)
 
 > Se obtienen  las compras de un usuario atraves de su ID.
 #
 
-GET: obtener todas las compras de un usuario  (SIN Autenticación )
+<h2>GET: obtener todas las compras de un usuario  (SIN Autenticación ).</h2>
 
 ![](https://res.cloudinary.com/dkm0hdlgz/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1669878566/Api-market/Obtener_compras_del_cliente_denegada_rht7pa.png)
 
@@ -64,17 +63,17 @@ GET: obtener todas las compras de un usuario  (SIN Autenticación )
 > Se loguea y recibe el Jason Web Token
  
 
-<h3>JASON WEB TOKEN:  donde debe colocarse el token</h3>
+<h2>JASON WEB TOKEN:  donde debe colocarse el token</h2>
 
 ![](https://res.cloudinary.com/dkm0hdlgz/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1669878566/Api-market/mostrar_como_usar_el_token_y7awi9.png)
 
 > En Header se agrega una KEY = Authorization y en el VALUE = Bearer +espacio+ se pega el Token que se obtuvo al loguearse en el paso anterior. Ejemplo: "Bearer eynasdjnasjcuc638f4fhv" sin comillas.
 
-<h4>EJEMPLO DE AUTENTICACION YA EN AMBIENTE DE PRODUCCION
-SE UTILIZO AZURE PARA EL DESPLIEGUE DE LA API</h4>
+<h2>EJEMPLO DE AUTENTICACION YA EN AMBIENTE DE PRODUCCION
+SE UTILIZO AZURE PARA EL DESPLIEGUE DE LA API</h2>
 
 
-POST  autenticacion usando la url de produccion
+<h2POST  autenticacion usando la url de produccion</h2>
 
 ![](https://res.cloudinary.com/dkm0hdlgz/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1669878567/Api-market/Prueba_desde_deploy_Azure_ejwhzi.png)
 
@@ -83,7 +82,7 @@ POST  autenticacion usando la url de produccion
 -
 -
 -
-<h4>Agregaciones importantes</h4>
+<h2>Agregaciones importantes</h2>
 -La api cuenta tambien con las posibilidades de VER AGREGAR MODIFICAR Y ELIMINAR los productos del supermercado
 -Se puede Realizar compras con un usuario donde elegiras los productos que quieras luego poder ver todas las compras de cada usuario como se vio anteriormente.
 
