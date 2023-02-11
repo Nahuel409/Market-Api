@@ -89,7 +89,7 @@ SE UTILIZO AZURE PARA EL DESPLIEGUE DE LA API</h2>
 <p>Si tiene interes por probar todas las caracteristicas de este proyecto puede comunicarse para facilitarle la coleccion de peticiones de Postman para que interactue libremente con la Api.</p>
 -
 -
-<h2>¡Despedida!</h2>
+<h2>¡Despedida Y Aprendizaje!</h2>
 <p>Este proyecto me brindó la oportunidad de aprender y utilizar nuevas tecnologías, en este caso "MAPSTRUCT" Fue mi primera vez usando esta herramienta y estoy impresionado por su eficacia en la conversión de objetos. Aprendí cómo utilizar MapStruct para mapear entidades de la base de datos a objetos de la aplicación y viceversa de manera sencilla y eficiente. Esta experiencia ha mejorado mis habilidades en el desarrollo de aplicaciones y estoy emocionado de seguir utilizando MapStruct en proyectos futuros..</p>
 <p>"Por otro lado quiero agradecer por tomarse el tiempo de revisar mi proyecto. Espero que les haya gustado y encontrado útil. Si tienen alguna pregunta o sugerencia, no duden en contactarme. ¡Gracias nuevamente por su tiempo y apoyo!"</p>
 
